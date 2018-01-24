@@ -1,0 +1,1 @@
+My file transformed to an InputStream and then to a String
